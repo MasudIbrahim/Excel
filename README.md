@@ -7,6 +7,6 @@ There is also a project task which involved creating a dashboard in excel lookin
 Before creating a dashboard, I cleaned the data to make it easier to work with.<br> 
 I:<br>
 -checked for and removed 26 duplicates<br>
--found and replaced single letters for words that are better understood<br>
+-found and replaced single letters for words that are easier to understand<br>
 -changed the income column data type to currency and removed unnecessary decimal places<br>
 -Used an IFS statement to create an age bracket column grouping ages together<br>
